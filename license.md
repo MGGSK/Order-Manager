@@ -13,7 +13,7 @@ Last updated on 6/15/2024
     -You can also create a feature request here: https://github.com/MGGSK/Order-Manager/issues
     -Be friendly when comenting on bug / feature requests
     
-## Don't do the folowing stuff
+## Don't do this
     -Don't make copies of the
         -Main app
         -Installer programm
