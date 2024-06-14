@@ -3,7 +3,7 @@
 ## How to become a contributor
 
 To become a contributor just send me a email at mggskmail@gmail.com
-and don't behave like a $*$&^
+and don't behave like a $($$&^
 
 ## Our Pledge
 
