@@ -1,5 +1,10 @@
 # Contributor Covenant Code of Conduct
 
+## How to become a contributor
+
+To become a contributor just send me a email at mggskmail@gmail.com
+and don't behave like a $*$&^
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
@@ -114,6 +119,7 @@ the community.
 
 ## Attribution
 
+The "How to become a contributor" section was written by mggsk
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 2.0, available at
 https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
