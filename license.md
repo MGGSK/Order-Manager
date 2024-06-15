@@ -3,7 +3,7 @@ Last updated on 6/15/2024
 
 © Mgg Sk 2024
 
-## Copyrright disclaimer
+## Copyright disclaimer
     -Everything listed below is © Mgg Sk
         -All parts of the app (app, installer, code...)
         -All screenshots on the github repo
