@@ -5,7 +5,7 @@
 
 | Version | Supported | End of support |
 | ------- | ----- | ---------------- |
-| 1.x | ✅ | Support end on 25/10/2025 |
+| 1.x | ✅ | Support ends on 25/10/2025 |
 
 ## Report a bug
 https://github.com/MGGSK/Order-Manager/issues
