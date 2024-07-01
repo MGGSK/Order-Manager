@@ -1,8 +1,7 @@
 # Order-Manager
-A UWP app for creating and managing orders. 
-Currently being ported to WinUI 3.
+A uwp app for creating and managing orders.
 
 ## 🌎 Localizations
--English (US)
--German (Germany)
--Slovak
+    -English (US)
+    -German (Germany)
+    -Slovak
