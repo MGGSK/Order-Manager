@@ -12,7 +12,7 @@ https://github.com/MGGSK/Order-Manager/issues
 
 # Privacy Policy
 ## What data is collected
--Everything writen in a bug report
+I don't colled any data using the app. I only collect everything writen in a bug report.
 
 ## What is the data used for
--Its used to improve the app
+Its used to improve the app.
