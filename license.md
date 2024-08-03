@@ -1,29 +1,33 @@
 # Order Manager License Agreement
-Last updated on 6/15/2024
+Last updated on 3.8.2024
 
 © Mgg Sk 2024
 
 ## Copyright disclaimer
-    -Everything listed below is © Mgg Sk
-        -All parts of the app (app, installer, code...)
-        -All screenshots on the github repo
+    All parts of the app (app, installer, source code...) are © Mgg Sk
+    All screenshots on the github repo, website... are © Mgg Sk
 
-## Do this
-    -If you find a bug report it here: https://github.com/MGGSK/Order-Manager/issues
-    -You can also create a feature request here: https://github.com/MGGSK/Order-Manager/issues
-    -Be friendly when comenting on bug / feature requests
+## You may...
+    -submit a bug report here: https://github.com/MGGSK/Order-Manager/issues
+    -create a feature request here https://github.com/MGGSK/Order-Manager/issues
+    -be friendly when comenting on bug / feature requests
     
-## Don't do this
-    -Don't make copies of the
-        -Main app
-        -Installer programm
-        -Any Dependencies in the installer zip
+## You may not...
+    -make copies of the app
+    -decompile the app
+    -create malicious plugins
+    -spam bug / feature reports
 
-## Don't do this in the github repository
-    -Don't make forks
-    -Don't make pull requests
-    -Don't copy any text from the repository
-    -Don't spam bug / feature reports
+## I am NOT responsible for any damage caused by the app if...
+    -experimental features are enabled.
+    -the app files were modified in any way.
+    -the damage is caused by a bad and / or malicious plugin.
+
+## ❗ What happens if I violate the license agreement
+    -1st offence: Warning
+    -2nd offence: 7 day ban
+    -3rd offence: 30 day ban
+    -4th offence: permanent ban
 
 ## Contact me
 -my contact email:
