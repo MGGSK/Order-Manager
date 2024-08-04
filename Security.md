@@ -1,10 +1,9 @@
 # Security Policy
 
-
-## Suported Versions:
-
 ## Report a bug
 https://github.com/MGGSK/Order-Manager/issues
+
+## Suported Versions:
 
 | Version | Supported          | EOL              |
 | ------- | ------------------ | ---------------- |
