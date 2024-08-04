@@ -7,7 +7,7 @@ https://github.com/MGGSK/Order-Manager/issues
 
 | Version | Supported          | EOL              |
 | ------- | ------------------ | ---------------- |
-| 1.2 | ✅ |Suported until 1.3 comes out|
+| 1.2 | ✅ |Suported until 1.9.9 comes out|
 | 1.1 | :x: |Suport ended on June 9th 2024|
 | 1.1 rc build   | :x: |Suport ended on June 8th 2024|
 | 1.1 prereleases| :x: |Suport ended on June 7th 2024|
