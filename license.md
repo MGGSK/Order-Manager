@@ -1,5 +1,5 @@
 # Order Manager License Agreement
-Last updated on 3.8.2024
+Last updated on 9.8.2024
 
 © Mgg Sk 2024
 
@@ -7,12 +7,12 @@ Last updated on 3.8.2024
     All parts of the app (app, installer, source code...) are © Mgg Sk
     All screenshots on the github repo, website... are © Mgg Sk
 
-## You may...
+## How to use this github repo...
     -submit a bug report here: https://github.com/MGGSK/Order-Manager/issues
     -create a feature request here https://github.com/MGGSK/Order-Manager/issues
     -be friendly when comenting on bug / feature requests
     
-## You may not...
+## You are not allowed to...
     -make copies of the app
     -decompile the app
     -create malicious plugins
